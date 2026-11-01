@@ -33,6 +33,7 @@ Your voyage saves itself as you sail.
 | Switch to the crew member a badge asks for, or the next one | Q | Y |
 | Read the letter in a bottle you just found | F | B |
 | Raise the compass (once Abuelo Ciro gives it) | Hold C | L3 |
+| Fish from the boat: cast, then hold to reel (let go while the line glows red) | E, hold E | X, hold X |
 | Look around | Mouse | Right stick |
 | Pause screen: chart, journal, satchel, codex, crew, controls, options (Q and E turn the pages) | Esc | Menu |
 
