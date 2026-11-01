@@ -48,3 +48,17 @@ Your voyage saves itself as you sail.
 | Step away from the gun | Esc |
 | Take a plank from the crate below, then hold E at a hole to patch it | E, hold E |
 | Pick up a bucket, scoop the water below, throw it over the side at the rail | E |
+
+### In a fight
+
+| Action | Keys | Gamepad |
+|---|---|---|
+| Strike (three in a row is a combo) | Left click or J | X |
+| Heavy blow | Right click or K | B |
+| Roll clear | Space | A |
+| Block (raise it just as a blow lands to parry) | Hold Shift | Hold LB or LT |
+| Special move of whoever you control | E | RB or RT |
+| Next weapon you have won | Tab | Click the right stick |
+| Hand over to the next of the crew | Q | Y |
+
+The game speaks English and Spanish: choose in Options, Language.
