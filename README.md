@@ -20,17 +20,21 @@ Your voyage saves itself as you sail.
 
 ## Controls
 
-| Action | Keys |
-|---|---|
-| Walk, or steer at the wheel | W A S D or the arrow keys |
-| Set more or less sail at the wheel | W and S |
-| Jump, then jump again for Tomás's wind leap | Space |
-| Gale Pearl leap, or a gust in the sails | Shift |
-| Act: talk, take the wheel, open, climb | E |
-| Drop or weigh the anchor | R |
-| Call the ship to you (hold it to go straight back aboard) | T |
-| Switch to another of the crew on foot | Q |
-| Look around | Mouse (click to capture it, Esc to let go) |
+| Action | Keys | Gamepad |
+|---|---|---|
+| Walk, or steer at the wheel | W A S D or the arrow keys | Left stick |
+| Set more or less sail at the wheel | W and S | Left stick up and down |
+| Jump, then jump again in the air for Tomás's wind leap | Space | A |
+| Gale Pearl leap, or a gust in the sails | Shift | RB or RT |
+| Act: talk, take the wheel, open, board | E | X |
+| Climb: walk, swim or jump into a ladder, net or vines; W and S climb, Space lets go | (no key) | |
+| Drop or weigh the anchor | R | LB |
+| Call the ship to you (hold it to go straight back aboard) | T | View |
+| Switch to the crew member a badge asks for, or the next one | Q | Y |
+| Read the letter in a bottle you just found | F | B |
+| Raise the compass (once Abuelo Ciro gives it) | Hold C | L3 |
+| Look around | Mouse | Right stick |
+| Pause screen: chart, journal, satchel, codex, crew, controls, options (Q and E turn the pages) | Esc | Menu |
 
 ### At the guns
 
