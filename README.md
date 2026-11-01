@@ -31,3 +31,15 @@ Your voyage saves itself as you sail.
 | Call the ship to you (hold it to go straight back aboard) | T |
 | Switch to another of the crew on foot | Q |
 | Look around | Mouse (click to capture it, Esc to let go) |
+
+### At the guns
+
+| Action | Keys |
+|---|---|
+| Pick up a cannonball at a shot rack (E again puts it back) | E |
+| Load an empty gun with the ball you carry, then man it | E |
+| Aim while manning a gun | Mouse, or W A S D |
+| Fire | Click, E or Space |
+| Step away from the gun | Esc |
+| Take a plank from the crate below, then hold E at a hole to patch it | E, hold E |
+| Pick up a bucket, scoop the water below, throw it over the side at the rail | E |
